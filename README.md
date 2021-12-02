@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+#Create an NFT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project uses a smart contract built in Solidity to interact with a front end interface
+and the Rinkeby test network to allow you to generate randomly generated NFTs
+with the click of a button.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Themed around web3 slang, generate your own custom NFTs and add them to your collection to show the world
