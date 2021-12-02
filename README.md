@@ -1,7 +1,8 @@
-#Create an NFT
+# NFT Creation Project
 
-This project uses a smart contract built in Solidity to interact with a front end interface
-and the Rinkeby test network to allow you to generate randomly generated NFTs
-with the click of a button.
+Mint your own NFT on the Ethereum Testnet (Rinkeby) with this simple web app. The app will randomly generate a 3 word NFT with a black background, and it will show up on the OpenSea testnet collection within minutes (a link is provided in the app).
 
-Themed around web3 slang, generate your own custom NFTs and add them to your collection to show the world
+Created using the buildspace.so NFT App project.
+
+Customized, deployed and memeified by @abusyhippie
+
