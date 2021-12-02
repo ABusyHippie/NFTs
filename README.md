@@ -5,3 +5,4 @@ Mint your own NFT on the Ethereum Testnet (Rinkeby) with this simple web app. Th
 Created using the buildspace.so NFT App project.
 
 Customized, deployed and memeified by @abusyhippie
+
